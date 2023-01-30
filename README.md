@@ -1,16 +1,24 @@
-# Protest Trump
+# README
 
-We are a grassroots movement tool that helps organize and mobilize
-people to take political action. Users have the opportunity to create events aim at bringing political change. There is also a feature in which users can provide transportation which is how we energize and mobilize people to take action and bring change.
+This README would normally document whatever steps are necessary to get the
+application up and running.
 
-![alt text](https://github.com/theasteve/ProtestTrump/blob/master/app/assets/images/protest.jpg "Logo")
-## Ruby version
+Things you may want to cover: 
 
-This app requires Rails 5.1.2 and Ruby version 2.3.1 & Bootstrap 4
+* Ruby version
 
-## Database creation
-1. ```bundle exec rake db:create```
-2. ```bundle exec rake db:migrate```
+* System dependencies
 
-## Database Schema Design
-![alt text](https://github.com/theasteve/ProtestTrump/blob/master/app/assets/images/schema.png "Schema")
+* Configuration
+
+* Database creation
+
+* Database initialization
+
+* How to run the test suite
+
+* Services (job queues, cache servers, search engines, etc.)
+
+* Deployment instructions
+
+* ...

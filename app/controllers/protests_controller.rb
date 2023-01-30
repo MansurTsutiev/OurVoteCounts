@@ -1,14 +1,10 @@
 class ProtestsController < ApplicationController
-
-
   def index
     @protests = Protest.all
   end
 
   def show
     @protest = Protest.find(params[:id])
-    @user = current_user
-    @transportation = Transportation.find(params[:id])
   end
 
   def new
